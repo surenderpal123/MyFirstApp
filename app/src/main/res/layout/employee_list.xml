@@ -8,6 +8,7 @@
     android:layout_marginTop="8dp"
     android:background="@drawable/employee_background"
     android:paddingBottom="12dp">
+
     <TextView
         android:id="@+id/employeeName"
         android:layout_width="wrap_content"
@@ -68,6 +69,6 @@
         android:layout_alignEnd="@+id/salary"
         android:layout_alignRight="@+id/salary"
         android:layout_below="@+id/designation"
-        android:text="contact number tested"/>
+        android:text="contact"/>
 
 </RelativeLayout>
