@@ -48,7 +48,7 @@ public class EmployeesAdapter extends RecyclerView.Adapter<EmployeesAdapter.Cust
     }
 
     public class CustomViewHolder extends RecyclerView.ViewHolder {
-        public TextView employeeName, designation, email, salary, dob,contactNumber;
+        public TextView employeeName, designation, email, salary, dob, contactNumber;
 
         public CustomViewHolder(View view) {
             super(view);
