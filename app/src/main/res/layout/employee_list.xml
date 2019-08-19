@@ -69,6 +69,6 @@
         android:layout_alignEnd="@+id/salary"
         android:layout_alignRight="@+id/salary"
         android:layout_below="@+id/designation"
-        android:text="contact number"/>
+        android:text="contact number testing"/>
 
 </RelativeLayout>
